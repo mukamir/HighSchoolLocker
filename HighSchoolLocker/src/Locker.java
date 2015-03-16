@@ -1,3 +1,12 @@
+/*
+	Program to simulate the openning principle of a High Schoool Locker, 
+	Author: Amirkhan Mukashev. Sudent, ID: 6605412.
+	E-mail Address: am25524@email.vccs.edu.
+	Programming Assignment of Unit3.
+	Date Modified: 15/03/2015.
+	Current Document code includes Locker Class
+*/
+
 import java.util.Scanner;
 
 public class Locker 
