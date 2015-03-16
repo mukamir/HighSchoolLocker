@@ -1,8 +1,12 @@
 /*
- * 
- * 
- * 
- * Comments:  Any bad input gets default
+	Program to simulate the openning principle of a High Schoool Locker, 
+	Author: Amirkhan Mukashev. Sudent, ID: 6605412.
+	E-mail Address: am25524@email.vccs.edu.
+	Programming Assignment of Unit3.
+	Date Modified: 15/03/2015.
+	Current Document code include CombinationLock Class
+
+ 	Comments:  Any bad input gets default
  */
 
 public class CombinationLock 
